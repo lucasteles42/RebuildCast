@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title><![CDATA[RebuildCast]]></title>
+    <description><![CDATA[Um podcast sobre engenharia de software desenvolvimento e tecnologia ]]></description>
+    <link>https://lucasteles.dev/tag/podcast</link>
+    <generator>Manual</generator>
+    <lastBuildDate>Mon, 13 Sep 2021 04:53:24 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 20:59:17 GMT</pubDate>
+    <copyright><![CDATA[Copyright Lucas Teles]]></copyright>
+    <language><![CDATA[pt]]></language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <itunes:author>Lucas Teles</itunes:author>
+    <itunes:subtitle><![CDATA[Um podcast sobre engenharia de software desenvolvimento e tecnologia ]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Um podcast sobre engenharia de software desenvolvimento e tecnologia ]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Lucas Teles</itunes:name>
+      <itunes:email>lucas.teles@outlook.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://lucasteles42.github.io/RebuildCast/image.jpg"/>
+    <itunes:category text="Technology"/>
+    <item>
+      <title><![CDATA[#24 - Clojure]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio vamos falar sobre Clojure, uma linguagem que é muito conhecida mas pouco falada, neste episodio vamos trazer uma introdução ao que é Clojure, e como é desenvolver com essa linguagem.
+
+Participantes:
+Participantes:
+Lucas Teles
+Rafael Delboni
+Eden Ferreira
+Rodolfo Ferreira
+
+
+Link do post:
+https://lucateles.dev/rebuildcast-24-clojure]]></description>
+      <guid isPermaLink="false">KCT9HR2E-6FAJOR</guid>
+      <pubDate>Mon, 13 Sep 2021 04:53:24 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/24-Clojure.mp3" length="89076358" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio vamos falar sobre Clojure, uma linguagem que é muito conhecida mas pouco falada, neste episodio vamos trazer uma introdução ao que é Clojure, e como é desenvolver com essa linguagem.
+
+Participantes:
+Participantes:
+Lucas Te ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio vamos falar sobre Clojure, uma linguagem que é muito conhecida mas pouco falada, neste episodio vamos trazer uma introdução ao que é Clojure, e como é desenvolver com essa linguagem.
+
+Participantes:
+Participantes:
+Lucas Teles
+Rafael Delboni
+Eden Ferreira
+Rodolfo Ferreira
+
+
+Link do post:
+https://lucateles.dev/rebuildcast-24-clojure]]></itunes:summary>
+      <itunes:duration>1:15:31</itunes:duration>
+      <itunes:length>89076358</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#23 - Estudo]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio vamos falar sobre estudo, como fazemos para nos mantermos atualizados e damos algumas dicas que talvez possa funcionar pra você.
+
+Participantes:
+Lucas Teles
+Rafael Delboni
+Caio Correa
+
+Link do post:
+https://lucasteles.dev/rebuildcast-23-estudo
+
+
+]]></description>
+      <guid isPermaLink="false">4IEKH0IP-ORY66R</guid>
+      <pubDate>Sun, 29 Aug 2021 21:04:25 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/23-Estudo.mp3" length="78614087" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio vamos falar sobre estudo, como fazemos para nos mantermos atualizados e damos algumas dicas que talvez possa funcionar pra você.
+
+Participantes:
+Lucas Teles
+Rafael Delboni
+Caio Correa
+
+Link do post:
+https://lucasteles.dev/ ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio vamos falar sobre estudo, como fazemos para nos mantermos atualizados e damos algumas dicas que talvez possa funcionar pra você.
+
+Participantes:
+Lucas Teles
+Rafael Delboni
+Caio Correa
+
+Link do post:
+https://lucasteles.dev/rebuildcast-23-estudo
+
+
+]]></itunes:summary>
+      <itunes:duration>1:12:39</itunes:duration>
+      <itunes:length>78614087</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#22 - Desenvolvimento de Games]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio vamos falar sobre como é fazer joguinhos digitais, para isso temos a presença do Andre Cardoso dono de um dos canais mais legais de GameDev do YouTube!
+
+
+Participantes:
+Lucas Teles
+Andre Cardoso
+Alan Pereira
+
+Link do Post
+https://lucasteles.dev/rebuildcast-22-desenvolvimento-de-games
+
+
+]]></description>
+      <guid isPermaLink="false">5K83H63G-DMO0F6R</guid>
+      <pubDate>Mon, 16 Aug 2021 03:49:41 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/22-Desenvolvimento-de-games.mp3" length="75561170" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio vamos falar sobre como é fazer joguinhos digitais, para isso temos a presença do Andre Cardoso dono de um dos canais mais legais de GameDev do YouTube!
+
+
+Participantes:
+Lucas Teles
+Andre Cardoso
+Alan Pereira
+
+Link do Post
+ ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio vamos falar sobre como é fazer joguinhos digitais, para isso temos a presença do Andre Cardoso dono de um dos canais mais legais de GameDev do YouTube!
+
+
+Participantes:
+Lucas Teles
+Andre Cardoso
+Alan Pereira
+
+Link do Post
+https://lucasteles.dev/rebuildcast-22-desenvolvimento-de-games
+
+
+]]></itunes:summary>
+      <itunes:duration>1:11:20</itunes:duration>
+      <itunes:length>75561170</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#21 - Kafka]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio iremos falar sobre o famoso e formoso Kafka, um das tecnologias do momento, o que é?, como funciona? e varias dicas maneiras!
+
+Participantes:
+Lucas Teles
+Neilton Rocha
+Thiago Conceição
+Iago Borges
+
+Post do blog:
+https://lucasteles.dev/rebuildcast-21-kafka
+
+
+]]></description>
+      <guid isPermaLink="false">6WBTSF77-B2CSOR</guid>
+      <pubDate>Mon, 12 Jul 2021 00:17:54 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/21-Kafka.mp3" length="70167269" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio iremos falar sobre o famoso e formoso Kafka, um das tecnologias do momento, o que é?, como funciona? e varias dicas maneiras!
+
+Participantes:
+Lucas Teles
+Neilton Rocha
+Thiago Conceição
+Iago Borges
+
+Post do blog:
+https://lu ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio iremos falar sobre o famoso e formoso Kafka, um das tecnologias do momento, o que é?, como funciona? e varias dicas maneiras!
+
+Participantes:
+Lucas Teles
+Neilton Rocha
+Thiago Conceição
+Iago Borges
+
+Post do blog:
+https://lucasteles.dev/rebuildcast-21-kafka
+
+
+]]></itunes:summary>
+      <itunes:duration>1:25:18</itunes:duration>
+      <itunes:length>70167269</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#20 - Entity Framework]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio iremos falar sobre o mais famoso ORM do mundo .NET, a lib mais magica e talvez subestimada para aplicações modernas, o famoso Entity Framework, vamos falar sobre os pontos que achamos interessantes, vantagens e experiência com ele.
+
+Link do post:
+https://lucasteles.dev/rebuildcast-20-entity-framework
+
+Participantes:
+Lucas Teles
+Mahmoud Ali
+Robson Amorin
+Arthur Fucher]]></description>
+      <guid isPermaLink="false">1WFGJWBI-ZTR19K9</guid>
+      <pubDate>Sun, 27 Jun 2021 20:08:03 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/20-Entity-Framework.mp3" length="68321403" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio iremos falar sobre o mais famoso ORM do mundo .NET, a lib mais magica e talvez subestimada para aplicações modernas, o famoso Entity Framework, vamos falar sobre os pontos que achamos interessantes, vantagens e experiência ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio iremos falar sobre o mais famoso ORM do mundo .NET, a lib mais magica e talvez subestimada para aplicações modernas, o famoso Entity Framework, vamos falar sobre os pontos que achamos interessantes, vantagens e experiência com ele.
+
+Link do post:
+https://lucasteles.dev/rebuildcast-20-entity-framework
+
+Participantes:
+Lucas Teles
+Mahmoud Ali
+Robson Amorin
+Arthur Fucher]]></itunes:summary>
+      <itunes:duration>1:14:43</itunes:duration>
+      <itunes:length>68321403</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#19 - Prevenindo o Colapso da Civilização]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio iremos falar sobre uma palestra do Jonathan Blow sobre "Prevenir o colapso da sociedade", uma discussão aberta, nossas opiniões e devaneios sobre abstração e complexidade.
+
+Link do video da palestra: https://www.youtube.com/watch?v=ZSRHeXYDLko
+
+Link do post:
+https://lucasteles.dev/rebuildcast-19-prevenindo-o-colapso-da-civilizacao
+
+
+]]></description>
+      <guid isPermaLink="false">E2UMJ9EP-MAQ0K9</guid>
+      <pubDate>Mon, 14 Jun 2021 03:35:30 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/19-prevenindo-o-colapso-da-civilizacao.mp3" length="73316897" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio iremos falar sobre uma palestra do Jonathan Blow sobre "Prevenir o colapso da sociedade", uma discussão aberta, nossas opiniões e devaneios sobre abstração e complexidade.
+
+Link do video da palestra: https://www.youtube.co ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio iremos falar sobre uma palestra do Jonathan Blow sobre "Prevenir o colapso da sociedade", uma discussão aberta, nossas opiniões e devaneios sobre abstração e complexidade.
+
+Link do video da palestra: https://www.youtube.com/watch?v=ZSRHeXYDLko
+
+Link do post:
+https://lucasteles.dev/rebuildcast-19-prevenindo-o-colapso-da-civilizacao
+
+
+]]></itunes:summary>
+      <itunes:duration>1:20:15</itunes:duration>
+      <itunes:length>73316897</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#18 - Fazendo Emuladores]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio iremos falar sobre como foi a experiência de criar um emulador pra um processador 6502! bastante coisa sobre assembly, hardware e programação baixo nível, vem conferir!
+
+Link do post: https://lucasteles.dev/rebuildcast-18-fazendo-emuladores
+
+Participantes:
+Lucas Teles
+Fernando Okuma
+Lucas Bertin
+Rafael Delboni
+]]></description>
+      <guid isPermaLink="false">K4QVBGDM-3U9PB9</guid>
+      <pubDate>Sun, 30 May 2021 19:31:18 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/18-Fazendo-Emuladores.mp3" length="69313844" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio iremos falar sobre como foi a experiência de criar um emulador pra um processador 6502! bastante coisa sobre assembly, hardware e programação baixo nível, vem conferir!
+
+Link do post: https://lucasteles.dev/rebuildcast-18- ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio iremos falar sobre como foi a experiência de criar um emulador pra um processador 6502! bastante coisa sobre assembly, hardware e programação baixo nível, vem conferir!
+
+Link do post: https://lucasteles.dev/rebuildcast-18-fazendo-emuladores
+
+Participantes:
+Lucas Teles
+Fernando Okuma
+Lucas Bertin
+Rafael Delboni
+]]></itunes:summary>
+      <itunes:duration>1:14:15</itunes:duration>
+      <itunes:length>69313844</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#17 - TypeScript, o JavaScript certo!]]></title>
+      <description><![CDATA[Olá ouvintes neste episódio iremos falar sobre a forma mais divertida de se escrever JavaScript, que é usando TypeScript! Neste episódio iremos abordar o porque acreditamos nisso, quais as vantagens e desvantagens de se usar TS e tipagem.
+
+Participantes:
+Lucas Teles
+William Grasel
+Higor Rozan
+André Valenti
+
+
+Post do blog: https://lucasteles.dev/rebuildcast-17-typescript-o-javascript-certo
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">CDK7E7PH-P2JRA4I</guid>
+      <pubDate>Mon, 17 May 2021 15:31:36 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/17-TypeScript-o-JavaScript-certo.mp3" length="83397168" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes neste episódio iremos falar sobre a forma mais divertida de se escrever JavaScript, que é usando TypeScript! Neste episódio iremos abordar o porque acreditamos nisso, quais as vantagens e desvantagens de se usar TS e tipagem.
+
+Participan ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes neste episódio iremos falar sobre a forma mais divertida de se escrever JavaScript, que é usando TypeScript! Neste episódio iremos abordar o porque acreditamos nisso, quais as vantagens e desvantagens de se usar TS e tipagem.
+
+Participantes:
+Lucas Teles
+William Grasel
+Higor Rozan
+André Valenti
+
+
+Post do blog: https://lucasteles.dev/rebuildcast-17-typescript-o-javascript-certo
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:29:51</itunes:duration>
+      <itunes:length>83397168</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#16 - Desenvolvimento iOS]]></title>
+      <description><![CDATA[Olá ouvintes! nesse episódio contamos com a presença de uma galera fera pra falar do caminho das pedras do desenvolvimento iOS moderno. Bora escutar!
+
+Participantes:
+Lucas Teles,
+Caio Correia,
+Paloma Bispo,
+Guilherme Rambo
+
+post do blog:
+https://lucasteles.dev/rebuildcast-16-desenvolvimento-ios
+
+
+]]></description>
+      <guid isPermaLink="false">2KDT0SWN-Q8PK3XR</guid>
+      <pubDate>Sun, 02 May 2021 20:10:32 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/16-Desenolvimento-iOS.mp3" length="61569537" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes! nesse episódio contamos com a presença de uma galera fera pra falar do caminho das pedras do desenvolvimento iOS moderno. Bora escutar!
+
+Participantes:
+Lucas Teles,
+Caio Correia,
+Paloma Bispo,
+Guilherme Rambo
+
+post do blog:
+https://luc ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes! nesse episódio contamos com a presença de uma galera fera pra falar do caminho das pedras do desenvolvimento iOS moderno. Bora escutar!
+
+Participantes:
+Lucas Teles,
+Caio Correia,
+Paloma Bispo,
+Guilherme Rambo
+
+post do blog:
+https://lucasteles.dev/rebuildcast-16-desenvolvimento-ios
+
+
+]]></itunes:summary>
+      <itunes:duration>1:03:39</itunes:duration>
+      <itunes:length>61569537</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#15 - .NET para Devs não .NET]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio vamos falar sobre .NET, por que acreditamos ser uma plataforma incrível e como ela tem mudado e se tornado um exemplo
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Fernando Okuma
+Robson Amorim
+
+Links do Post:
+https://lucasteles.dev/rebuildcast-15-net-para-devs-nao-net
+
+
+]]></description>
+      <guid isPermaLink="false">E1JJHA42-VY4X6R</guid>
+      <pubDate>Mon, 19 Apr 2021 01:54:14 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/15-.net-para-devs-nao-.net.mp3" length="52200206" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio vamos falar sobre .NET, por que acreditamos ser uma plataforma incrível e como ela tem mudado e se tornado um exemplo
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Fernando Okuma
+Robson Amorim
+
+Links do Post:
+https://lucaste ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio vamos falar sobre .NET, por que acreditamos ser uma plataforma incrível e como ela tem mudado e se tornado um exemplo
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Fernando Okuma
+Robson Amorim
+
+Links do Post:
+https://lucasteles.dev/rebuildcast-15-net-para-devs-nao-net
+
+
+]]></itunes:summary>
+      <itunes:duration>0:59:28</itunes:duration>
+      <itunes:length>52200206</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#14 - programação reativa]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio vamos conversar sobre programação reativa, reactive extensions, RxJs, como funciona, o que é, e muito mais!
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Caio Correa
+William Grasel
+
+Link do post: https://lucasteles.dev/rebuildcast-14-programacao-reativa]]></description>
+      <guid isPermaLink="false">I7S58TKK-1DZPVI</guid>
+      <pubDate>Sun, 04 Apr 2021 23:47:23 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/14-programacao-reativa.mp3" length="62668390" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio vamos conversar sobre programação reativa, reactive extensions, RxJs, como funciona, o que é, e muito mais!
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Caio Correa
+William Grasel
+
+Link do post: https://lucasteles.dev/rebuil ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio vamos conversar sobre programação reativa, reactive extensions, RxJs, como funciona, o que é, e muito mais!
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Caio Correa
+William Grasel
+
+Link do post: https://lucasteles.dev/rebuildcast-14-programacao-reativa]]></itunes:summary>
+      <itunes:duration>1:07:18</itunes:duration>
+      <itunes:length>62668390</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#13 - Perrengues]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos bater um papo e rir juntos de vários perrengues que passamos no decorrer das nossas carreiras.
+
+link do post:
+https://lucasteles.dev/rebuildcast-13-perrengues/
+
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Lucas Bertin
+Rafael Delboni
+
+]]></description>
+      <guid isPermaLink="false">4HU80DMX-D6LXR</guid>
+      <pubDate>Sun, 21 Mar 2021 16:47:18 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/13-perrengues.mp3" length="60424575" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos bater um papo e rir juntos de vários perrengues que passamos no decorrer das nossas carreiras.
+
+link do post:
+https://lucasteles.dev/rebuildcast-13-perrengues/
+
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Lucas Berti ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos bater um papo e rir juntos de vários perrengues que passamos no decorrer das nossas carreiras.
+
+link do post:
+https://lucasteles.dev/rebuildcast-13-perrengues/
+
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+Lucas Bertin
+Rafael Delboni
+
+]]></itunes:summary>
+      <itunes:duration>1:10:58</itunes:duration>
+      <itunes:length>60424575</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#12 - Contratação]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre contratação e processos seletivos principalmente na visão de quem contrata, claro que essa visão é importante também pra quem participa dos processos, então bora conferir
+
+Link do Post: https://lucasteles.dev/rebuildcast-12-contratacao/
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+Guilherme Porto]]></description>
+      <guid isPermaLink="false">501DUV6J-PEQAOR</guid>
+      <pubDate>Mon, 08 Mar 2021 03:05:07 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/12-contratacao.mp3" length="64089713" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre contratação e processos seletivos principalmente na visão de quem contrata, claro que essa visão é importante também pra quem participa dos processos, então bora conferir
+
+Link do Post: https://lucastel ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre contratação e processos seletivos principalmente na visão de quem contrata, claro que essa visão é importante também pra quem participa dos processos, então bora conferir
+
+Link do Post: https://lucasteles.dev/rebuildcast-12-contratacao/
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+Guilherme Porto]]></itunes:summary>
+      <itunes:duration>1:17:23</itunes:duration>
+      <itunes:length>64089713</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#11 - Você gosta de programar?]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o amor em desenvolver software, se ele é necessário ou não e o quanto isso pode influenciar na sua carreira... ou não...
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+Rafael Delboni
+
+
+Link do post:
+https://lucasteles.dev/rebuildcast-11-voce-gosta-de-programar/
+
+]]></description>
+      <guid isPermaLink="false">D88EJCQ-6V3WEL8F</guid>
+      <pubDate>Sun, 21 Feb 2021 19:58:33 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/11-Voce-gosta-de-programar.mp3" length="78469622" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o amor em desenvolver software, se ele é necessário ou não e o quanto isso pode influenciar na sua carreira... ou não...
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+Rafael Delboni
+
+
+Link do  ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o amor em desenvolver software, se ele é necessário ou não e o quanto isso pode influenciar na sua carreira... ou não...
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+Rafael Delboni
+
+
+Link do post:
+https://lucasteles.dev/rebuildcast-11-voce-gosta-de-programar/
+
+]]></itunes:summary>
+      <itunes:duration>1:09:32</itunes:duration>
+      <itunes:length>78469622</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#10 - Libs para .NET]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas libs, ferramentas e frameworks legais para se usar no mundo .NET
+
+Pauta:
+Uma penca de Libs
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+
+
+Link do post: https://lucasteles.dev/rebuildcast-10-libs-para-net/]]></description>
+      <guid isPermaLink="false">4WP8RWVZ-YNQXGVI</guid>
+      <pubDate>Sun, 07 Feb 2021 22:05:37 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/10-libs-legais-para-.NET.mp3" length="68039663" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas libs, ferramentas e frameworks legais para se usar no mundo .NET
+
+Pauta:
+Uma penca de Libs
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+
+
+Link do post: https://lucasteles.dev/rebuildc ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas libs, ferramentas e frameworks legais para se usar no mundo .NET
+
+Pauta:
+Uma penca de Libs
+
+Participantes:
+Lucas Teles
+Robson Amorin
+Arthur Fucher
+
+
+Link do post: https://lucasteles.dev/rebuildcast-10-libs-para-net/]]></itunes:summary>
+      <itunes:duration>1:04:11</itunes:duration>
+      <itunes:length>68039663</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#9 - Ferramentas de Linhas de Comando]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas de CLIs, as famosas linha de comando, esperamos que após esse episodio você fiquei muito mais produtivo
+
+
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+
+
+Link do Post: https://lucasteles.dev/rebuildcast-9-ferramentas-de-linha-de-comando
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">5MCH5YWE-ZILIK9</guid>
+      <pubDate>Tue, 26 Jan 2021 03:21:16 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/9-CLIs.mp3" length="110139139" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas de CLIs, as famosas linha de comando, esperamos que após esse episodio você fiquei muito mais produtivo
+
+
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+
+
+Link do Post: ht ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas de CLIs, as famosas linha de comando, esperamos que após esse episodio você fiquei muito mais produtivo
+
+
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+
+
+Link do Post: https://lucasteles.dev/rebuildcast-9-ferramentas-de-linha-de-comando
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:37:50</itunes:duration>
+      <itunes:length>110139139</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#8 - Ferramentas [Windows, Mac, Linux]]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas e Apps legais pra melhorar nosso fluxo de trabalho e qualidade de vida para todos os sistemas operacionais que importam.
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+Chico Berrocal,
+
+Link do Post: https://lucasteles.dev/rebuildcast-8-ferramentas-windows-mac-linux/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">JCZ15CZ8-W1XLXR</guid>
+      <pubDate>Sun, 10 Jan 2021 22:06:24 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/8-Ferramentas-Windows-Mac-Linux.mp3" length="109098215" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas e Apps legais pra melhorar nosso fluxo de trabalho e qualidade de vida para todos os sistemas operacionais que importam.
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+Chi ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre algumas ferramentas e Apps legais pra melhorar nosso fluxo de trabalho e qualidade de vida para todos os sistemas operacionais que importam.
+
+Participantes:
+Lucas Teles,
+Rafael Delboni,
+Caio Correa,
+Chico Berrocal,
+
+Link do Post: https://lucasteles.dev/rebuildcast-8-ferramentas-windows-mac-linux/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:38:58</itunes:duration>
+      <itunes:length>109098215</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#7 - GameJam]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre GameJam, como é virar varias noites codando joguinhos numa versão mais legal de Hackaton
+
+
+Link do post: https://lucasteles.dev/rebuildcast-7-gamejam/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">EV6T2I6Y-M50ZFR</guid>
+      <pubDate>Wed, 30 Dec 2020 02:40:58 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/7-GameJam.mp3" length="75659458" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre GameJam, como é virar varias noites codando joguinhos numa versão mais legal de Hackaton
+
+
+Link do post: https://lucasteles.dev/rebuildcast-7-gamejam/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jaz ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre GameJam, como é virar varias noites codando joguinhos numa versão mais legal de Hackaton
+
+
+Link do post: https://lucasteles.dev/rebuildcast-7-gamejam/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:10:39</itunes:duration>
+      <itunes:length>75659458</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#6 - Vim]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre a melhor forma de se editar texto, o por quê e como usar Vim no seu dia a dia.
+
+Participantes: Lucas Teles; Rafael Delboni; Fernando Okuma; Chico Berrocal
+
+Link do post: https://lucasteles.dev/rebuildcast-6-vim/
+
+Music by: MDK Song Title: Press Start (Smooth Jazz Remix) http://www.facebook.com/MDKOfficial http://www.youtube.com/MDKOfficialYT Buy the song here: http://www.mdkofficial.bandcamp.com/ Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">CYAPHLD1-NRPY14I</guid>
+      <pubDate>Mon, 14 Dec 2020 17:55:29 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/6-vim-neovim.mp3" length="103749816" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre a melhor forma de se editar texto, o por quê e como usar Vim no seu dia a dia.
+
+Participantes: Lucas Teles; Rafael Delboni; Fernando Okuma; Chico Berrocal
+
+Link do post: https://lucasteles.dev/rebuildca ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre a melhor forma de se editar texto, o por quê e como usar Vim no seu dia a dia.
+
+Participantes: Lucas Teles; Rafael Delboni; Fernando Okuma; Chico Berrocal
+
+Link do post: https://lucasteles.dev/rebuildcast-6-vim/
+
+Music by: MDK Song Title: Press Start (Smooth Jazz Remix) http://www.facebook.com/MDKOfficial http://www.youtube.com/MDKOfficialYT Buy the song here: http://www.mdkofficial.bandcamp.com/ Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:34:12</itunes:duration>
+      <itunes:length>103749816</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#5 - Vida de consultoria]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos compartilhar nossas vivencias de trabalhar em consultoria, discutir oque é bom, ruim e muito mais :)
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+William Espinosa
+Caio
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">2R05T5V3-4JMDKJ4</guid>
+      <pubDate>Mon, 30 Nov 2020 04:58:47 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/5-Vida-de-consultoria.mp3" length="55279993" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos compartilhar nossas vivencias de trabalhar em consultoria, discutir oque é bom, ruim e muito mais :)
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+William Espinosa
+Caio
+
+Music by: MDKSong Title: Press Start (Smooth Jaz ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos compartilhar nossas vivencias de trabalhar em consultoria, discutir oque é bom, ruim e muito mais :)
+
+Participantes:
+Lucas Teles
+Arthur Fucher
+William Espinosa
+Caio
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>0:55:47</itunes:duration>
+      <itunes:length>55279993</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#4 - Tecnologias no Iti]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre quais tecnologias são usadas no Iti, o filho prodigo do Itau, quais foram suas decisões sobre time, ferramentas e arquitetura.
+
+Participantes:
+Lucas Teles
+Wennder Santos
+Joel
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">2DP3BUUM-4B73NMI</guid>
+      <pubDate>Mon, 16 Nov 2020 02:14:43 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/4-Tecnologias-no-Iti.mp3" length="69080748" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre quais tecnologias são usadas no Iti, o filho prodigo do Itau, quais foram suas decisões sobre time, ferramentas e arquitetura.
+
+Participantes:
+Lucas Teles
+Wennder Santos
+Joel
+
+Music by: MDKSong Title:  ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre quais tecnologias são usadas no Iti, o filho prodigo do Itau, quais foram suas decisões sobre time, ferramentas e arquitetura.
+
+Participantes:
+Lucas Teles
+Wennder Santos
+Joel
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)http://www.facebook.com/MDKOfficialhttp://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:06:05</itunes:duration>
+      <itunes:length>69080748</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#3 - Monorepo]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre Monorepo, uma estratégia diferente da usual para organização de código, e pra esse episódio temos a participação de pessoas que trabalham com Monorepo no dia a dia.
+
+Pauta:
+O que é?
+Pra que serve?
+Erros comuns
+Vantagens
+Tooling
+
+Participantes:
+Lucas Teles
+Letticia Nicoli
+William Grasel
+Chico Berrocal
+
+Link do post: https://lucasteles.dev/rebuildcast-3-monorepo/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)
+http://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></description>
+      <guid isPermaLink="false">1K0VTSHO-EI6SWCD</guid>
+      <pubDate>Mon, 02 Nov 2020 20:11:01 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/3-Monorepo.mp3" length="69856919" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre Monorepo, uma estratégia diferente da usual para organização de código, e pra esse episódio temos a participação de pessoas que trabalham com Monorepo no dia a dia.
+
+Pauta:
+O que é?
+Pra que serve?
+Erros ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre Monorepo, uma estratégia diferente da usual para organização de código, e pra esse episódio temos a participação de pessoas que trabalham com Monorepo no dia a dia.
+
+Pauta:
+O que é?
+Pra que serve?
+Erros comuns
+Vantagens
+Tooling
+
+Participantes:
+Lucas Teles
+Letticia Nicoli
+William Grasel
+Chico Berrocal
+
+Link do post: https://lucasteles.dev/rebuildcast-3-monorepo/
+
+
+
+Music by: MDKSong Title: Press Start (Smooth Jazz Remix)
+http://www.youtube.com/MDKOfficialYTBuy the song here: http://www.mdkofficial.bandcamp.com/Free Download: http://www.morgandavidking.com/free-downloads]]></itunes:summary>
+      <itunes:duration>1:06:24</itunes:duration>
+      <itunes:length>69856919</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#2 - O Papel do Sênior ]]></title>
+      <description><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o papel do sênior no mercado de tecnologia, qual o impacto dessa nomenclatura e o que na nossa opinião são qualidades necessárias para uma pessoa  ser classificada como tal, ou mesmo se faz sentido existir essas distinções.
+
+Participantes:
+Lucas Teles
+Thamirys Gameiro
+Victor Cavalcante
+Fabio Damasceno
+
+Confira o post em: https://lucasteles.dev/rebuildcast-2-o-papel-do-senior/]]></description>
+      <guid isPermaLink="false">E8K72HHH-A9K9</guid>
+      <pubDate>Mon, 19 Oct 2020 04:21:59 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/2-O-papel-do-senior.mp3" length="90227848" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o papel do sênior no mercado de tecnologia, qual o impacto dessa nomenclatura e o que na nossa opinião são qualidades necessárias para uma pessoa  ser classificada como tal, ou mesmo se faz sentido exis ...]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Olá ouvintes, neste episódio iremos falar sobre o papel do sênior no mercado de tecnologia, qual o impacto dessa nomenclatura e o que na nossa opinião são qualidades necessárias para uma pessoa  ser classificada como tal, ou mesmo se faz sentido existir essas distinções.
+
+Participantes:
+Lucas Teles
+Thamirys Gameiro
+Victor Cavalcante
+Fabio Damasceno
+
+Confira o post em: https://lucasteles.dev/rebuildcast-2-o-papel-do-senior/]]></itunes:summary>
+      <itunes:duration>1:17:30</itunes:duration>
+      <itunes:length>90227848</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+    <item>
+      <title><![CDATA[#1 - Testes em .NET]]></title>
+      <description><![CDATA[Ola ouvintes, neste episódio iremos falar sobre as ferramentas do dia a dia pra testar aplicações .NET, desde de testes simples até testes complexo.
+
+Acesse o blog post
+https://lucasteles.dev/rebuildcast-1-testes-em-net/
+
+]]></description>
+      <guid isPermaLink="false">EBNSDLAV-9Z4CXR</guid>
+      <pubDate>Sat, 26 Sep 2020 21:01:00 GMT</pubDate>
+      <enclosure url="https://lucasteles42.github.io/RebuildCast/episodes/1-Testes-em-.NET.mp3" length="119729494" type="audio/mpeg"/>
+      <itunes:author></itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:subtitle><![CDATA[Ola ouvintes, neste episódio iremos falar sobre as ferramentas do dia a dia pra testar aplicações .NET, desde de testes simples até testes complexo.
+
+Acesse o blog post
+https://lucasteles.dev/rebuildcast-1-testes-em-net/
+
+]]></itunes:subtitle>
+      <itunes:summary><![CDATA[Ola ouvintes, neste episódio iremos falar sobre as ferramentas do dia a dia pra testar aplicações .NET, desde de testes simples até testes complexo.
+
+Acesse o blog post
+https://lucasteles.dev/rebuildcast-1-testes-em-net/
+
+]]></itunes:summary>
+      <itunes:duration>1:41:41</itunes:duration>
+      <itunes:length>119729494</itunes:length>
+      <itunes:keywords></itunes:keywords>
+
+    </item>
+  </channel>
+</rss>
